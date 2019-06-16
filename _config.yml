@@ -70,10 +70,10 @@ feed:
 safe: False
 lsi: False
 username: mhuang74
-repo: mhuang74-blog
-branch: gh-pages
-relative_source: 
-destination: 
+repo: mhuang74-blog.github.io
+branch: master
+relative_source: _site/
+destination: _site/
 production_url:  https://mhuang74-blog.github.io/
 source_url:  https://github.com/mhuang74-blog/mhuang74-blog.github.io
 
