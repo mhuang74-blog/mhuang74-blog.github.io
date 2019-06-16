@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tinakuobooks/tag/fables/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/tinakuobooks/" rel="alternate" type="text/html" />
-  <updated>2019-06-16T17:29:11+00:00</updated>
+  <updated>2019-06-16T17:33:05+00:00</updated>
   <id>/tinakuobooks/tag/fables/feed.xml</id>
 
   
@@ -44,8 +44,8 @@
 
   
     <entry>
-      <title type="html">Michael’s New Story</title>
-      <link href="/tinakuobooks/story-of-a-bear" rel="alternate" type="text/html" title="Michael's New Story" />
+      <title type="html">Story of a Bear</title>
+      <link href="/tinakuobooks/story-of-a-bear" rel="alternate" type="text/html" title="Story of a Bear" />
       <published>2019-06-15T18:00:00+00:00</published>
       <updated>2019-06-15T18:00:00+00:00</updated>
       <id>/tinakuobooks/story-of-a-bear</id>
