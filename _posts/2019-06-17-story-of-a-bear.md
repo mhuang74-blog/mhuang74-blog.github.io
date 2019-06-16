@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/bear.jpg
 navigation: True
-title: Michael's New Story
+title: Story of a Bear
 date: 2019-06-15 18:00:00
 tags: fables
 class: post-template
