@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/bear.jpg
 navigation: True
-title: Micahel's New Story
+title: Michael's New Story
 date: 2019-06-15 18:00:00
 tags: fables
 class: post-template
