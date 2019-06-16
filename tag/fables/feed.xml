@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tinakuobooks/tag/fables/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/tinakuobooks/" rel="alternate" type="text/html" />
-  <updated>2019-06-16T17:22:42+00:00</updated>
+  <updated>2019-06-16T17:29:11+00:00</updated>
   <id>/tinakuobooks/tag/fables/feed.xml</id>
 
   
@@ -42,6 +42,42 @@
   
   
 
+  
+    <entry>
+      <title type="html">Michael’s New Story</title>
+      <link href="/tinakuobooks/story-of-a-bear" rel="alternate" type="text/html" title="Michael's New Story" />
+      <published>2019-06-15T18:00:00+00:00</published>
+      <updated>2019-06-15T18:00:00+00:00</updated>
+      <id>/tinakuobooks/story-of-a-bear</id>
+      <content type="html" xml:base="/tinakuobooks/story-of-a-bear">&lt;p&gt;This is my new story, and I am still working on it…&lt;/p&gt;
+
+&lt;p&gt;It’s about a bear that becomes infactuated with a school bus..&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>michael</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="fables" />
+      
+
+      
+        <summary type="html">This is my new story, and I am still working on it…</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">The Businessman &amp;amp; The Fisherman</title>
