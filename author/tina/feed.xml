@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tinakuobooks/author/tina/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/tinakuobooks/" rel="alternate" type="text/html" />
-  <updated>2019-06-22T15:36:45+00:00</updated>
+  <updated>2019-06-22T15:42:58+00:00</updated>
   <id>/tinakuobooks/author/tina/feed.xml</id>
 
   
@@ -32,8 +32,8 @@
 
   
     <entry>
-      <title type="html">Love Signal Detective</title>
-      <link href="/tinakuobooks/love-signal-detective" rel="alternate" type="text/html" title="Love Signal Detective" />
+      <title type="html">暗號偵探社</title>
+      <link href="/tinakuobooks/love-signal-detective" rel="alternate" type="text/html" title="暗號偵探社" />
       <published>2018-02-27T00:00:00+00:00</published>
       <updated>2018-02-27T00:00:00+00:00</updated>
       <id>/tinakuobooks/love-signal-detective</id>
@@ -68,6 +68,47 @@
 
       
         <summary type="html">This is Tina’s first foray into young adults long fiction.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">丁小飛校園日記4：聰明眼鏡</title>
+      <link href="/tinakuobooks/ding-diary-4" rel="alternate" type="text/html" title="丁小飛校園日記4：聰明眼鏡" />
+      <published>2017-03-07T00:00:00+00:00</published>
+      <updated>2017-03-07T00:00:00+00:00</updated>
+      <id>/tinakuobooks/ding-diary-4</id>
+      <content type="html" xml:base="/tinakuobooks/ding-diary-4">&lt;p&gt;This is the first book that I managed to contribute to one of Tina’s books. It so happend that I was really drolling over what people were saying about Google Glass at the time. So when Tina asked me about a cool tech toy for Fei, it had to be some kind of Glass gizmo!&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;　　聽到班上同學炫耀自己有一副全球限量眼鏡，丁小飛脫口而出：「我也有！」
+　　為了掩蓋自己說謊的事實，丁小飛開始瞎掰眼鏡的「不在場證明」；
+　　當謊言愈說愈多，事情被揭發，大家開始用有色眼光看小飛，稱他為「丁木偶」&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tina Kuo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="fiction" />
+      
+
+      
+        <summary type="html">This is the first book that I managed to contribute to one of Tina’s books. It so happend that I was really drolling over what people were saying about Google Glass at the time. So when Tina asked me about a cool tech toy for Fei, it had to be some kind of Glass gizmo!</summary>
       
 
       
