@@ -15,7 +15,8 @@ cover: assets/images/blog-cover-tina.jpg
 logo: 
 logo_dark: assets/images/favicon_turtle.png
 favicon: assets/images/favicon_turtle.png
-production_url: https://mhuang74-blog.github.io/tinakuobooks
+url: https://www.tinakuobooks.com
+production_url: https://www.tinakuobooks.com
 source_url: https://github.com/mhuang74-blog/tinakuobooks
 CNAME: www.tinakuobooks.com
 
@@ -32,7 +33,7 @@ disqus: False
 disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
-google_analytics:  # replace with your GA tracking identifier
+google_analytics:  UA-137801972-1
 
 # Permalinks
 permalink: /:title
@@ -44,7 +45,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 
 feed:
   path: feed.xml
@@ -74,7 +75,7 @@ repo: tinakuobooks
 branch: master
 relative_source: _site/
 destination: _site/
-production_url:  https://mhuang74-blog.github.io/tinakuobooks
+production_url:  https://www.tinakuobooks.com
 source_url:  https://github.com/mhuang74-blog/tinakuobooks
 
 exclude:
