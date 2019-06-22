@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/love_signal_detective.png'
+cover: 'assets/images/love_signal_detective_wide.png'
 navigation: True
 title: Love Signal Detective
 date: 2018-02-27
