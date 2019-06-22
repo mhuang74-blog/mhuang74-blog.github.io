@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/love_signal_detective_wide.png'
 navigation: True
-title: Love Signal Detective
+title: 暗號偵探社
 date: 2018-02-27
 tags: fiction
 class: post-template
