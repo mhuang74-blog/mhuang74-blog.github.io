@@ -9,7 +9,7 @@ words_per_minute: 200
 baseurl: /tinakuobooks/
 
 # Website info
-title: Tina Kuo Books
+title: TKB
 description: Celebrate books publshed by my wife Tina Kuo.
 cover: assets/images/blog-cover-tina.jpg
 logo: 
@@ -29,7 +29,7 @@ subscribers: False # you need to connect an external service for this to work,
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
 google_analytics:  # replace with your GA tracking identifier
