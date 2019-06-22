@@ -17,7 +17,7 @@ logo_dark: assets/images/favicon_turtle.png
 favicon: assets/images/favicon_turtle.png
 production_url: https://mhuang74-blog.github.io/tinakuobooks
 source_url: https://github.com/mhuang74-blog/tinakuobooks
-CNAME: #add cname for website to be created
+CNAME: www.tinakuobooks.com
 
 # Social info
 navigation: False # show the navbar links
