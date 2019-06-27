@@ -2,10 +2,10 @@ tina:
   username: tina
   name: Tina Kuo
   location: Taipei, Taiwan
-  url_full: https://zh-tw.facebook.com/tinachingting/
-  url: https://zh-tw.facebook.com/tinachingting/
+  url_full: 
+  url: 
   bio: Tina Kuo just enjoys writing! She has published in English and Chinese, from picture books to novels, and is now venturing into musical scripts.
   picture: assets/images/tina_bio_photo.png
-  facebook: True
+  facebook: tinachingting
   twitter: 
   cover: assets/images/blog-cover-tina.jpg
