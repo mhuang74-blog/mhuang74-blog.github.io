@@ -1,9 +1,10 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/love_signal_detective_wide.png'
+cover: 'assets/images/love-signal-detective-short-cover-wide.png'
 navigation: True
 title: 暗號偵探社
+description: 小小偵探帶著我們一起找尋與抓住家人愛的暗號！
 date: 2018-02-27
 tags: fiction
 class: post-template
