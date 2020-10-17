@@ -7,7 +7,7 @@ This repo contains source material for generating static website for [tinakuoboo
 ## Getting Started
 
 * [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/macos/)
-** Recommend Ruby `2.5.1` and Jekyll `3.7.4`
+  * Recommend Ruby `2.5.3`, which matches what's used on travis-ci.com
 * `$ bundle exec jekyll serve`
 * Browse to `http://localhost:4000`
 
