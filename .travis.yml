@@ -10,7 +10,7 @@ deploy:
   provider: pages
   edge: true
   skip-cleanup: true
-  local-dir: public
+  local-dir: _site
   github-token: "$GH_TOKEN"
   keep-history: true
   target_branch: gh-pages
