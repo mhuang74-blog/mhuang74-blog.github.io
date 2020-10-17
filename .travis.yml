@@ -5,7 +5,7 @@ rvm:
 - 2.5.3
 install:
 - bundle install
-script: bundle exec jekyll build
+script: bundle exec rake site:deploy --quiet
 deploy:
   provider: pages
   edge: true
