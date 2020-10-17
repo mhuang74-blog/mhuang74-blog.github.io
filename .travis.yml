@@ -8,8 +8,9 @@ install:
 script: bundle exec rake site:deploy --quiet
 deploy:
   provider: pages
+  edge: true
   skip-cleanup: true
-  local_dir: public
+  local-dir: public
   github-token: "$GH_TOKEN"
   keep-history: true
   target_branch: gh-pages
