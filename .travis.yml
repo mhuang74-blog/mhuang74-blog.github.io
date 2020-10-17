@@ -10,22 +10,20 @@ install:
 
 script: bundle exec rake site:deploy --quiet #--trace
 
-# Generate your secure token with the travis gem:
-# get Github token from your Travis CI profile page
-# gem install travis
-# GH_TOKEN from https://github.com/settings/tokens
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
-env:
-  global:
-    secure: "Znasjn0Wh/OxJ0stDd9fERmQfvfru3McSLz4G+jX0THIxMOiKEsG23XxqBm4frEGj3rayQ6Ip0lqQwKE8ljf3fXYOpGOLrKEg3LL3jiNjLKsV62xGtV7k3JbC65JNar8MLkoD3RtEyp5entOkNhQ67N3TqziWTpmZdeo7OYmOROxe4TV0dN4HCzqrvJ6/yJux7tnCJvWy/OWyBY5FoIH8aEVkblERyCzGIeTFkJRoVNP5Cq+y+Mc4psxjmZgFeL9Wk6KbC1Q5IFfwujl3/7J8NzXQkvK1ZEzUpBWANyzPOfB5nyzTn+EI7M+16xI/oWk8k22k4tpnjmO4jAT0tTV1PnW8zPzI5rG0Gk18fxXJ/vEiVa4dIFCpL3Bi1PkXwderE44PBidafZSTaVhBrKNX7ycafUnBMGtSES6gftCupCesMyrCEDeVRwRT0Y+1ehpbBH9V1XOyYqNlx1h1+nGuMJZHf3JH0sN3t75f2BL1a82peS0ETRluOJyUoMqUPt5bV5+hzHG/l/IPUx5dPcKVBdv1r+D9TOY+Xe25/b2BaMw1qxWZEgnXsVUzYzxfPoxH7CfcKiMSIVq0dVFB6JEp0qpZ5DwvoFUCg+4B36ZWi+V4CMfAqhd23WjFOclqfy0xMFfsZ977F2TMmWKLm6yRGYEvRB1Ng7zwt3xm9/JDmo="
-branches:
-  only:
-    - master
-
+# Here is the magic part
 deploy:
+  # Use Github pages deploy process
   provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  # Keep builded pages
+  skip-cleanup: true
+  # Directory where your generated files are located
+  local_dir: public
+  # Github security/auth token
+  github-token: $GITHUB_TOKEN
+  # Incremental commit to keep old build/files from previous deployments
+  keep-history: true
+  # Git branch on which it should deploy (master, gh-pages, foo...)
+  target_branch: gh-pages
   on:
-    branch: gh-pages
+    # Which branch on commit/push will trigger deployment
+    branch: master
