@@ -1,5 +1,8 @@
 ## tinakuobooks.com
 
+[![Build Status](https://travis-ci.org/mhuang74-blog/tinakuobooks.svg?branch=master)](https://travis-ci.org/github/mhuang74-blog/tinakuobooks)
+
+
 This repo contains source material for generating static website for [tinakuobooks.com](https://tinakuobooks.com).
 
 ## Powered by
