@@ -4,6 +4,8 @@
 
 This repo contains source material for generating static website for [tinakuobooks.com](https://tinakuobooks.com).
 
+Targeted for Chinese audience.
+
 ## Getting Started
 
 * [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/macos/)
