@@ -11,6 +11,11 @@ This repo contains source material for generating static website for [tinakuoboo
 * `$ bundle exec jekyll serve`
 * Browse to `http://localhost:4000`
 
+## Copyright & License
+
+All content copyright Michael S. Huang, all rights reserved.
+
+
 ## Powered by
 
 * [Jasper2](https://github.com/jekyller/jasper2)
