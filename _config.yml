@@ -35,6 +35,7 @@ disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
 google_analytics:  UA-137801972-1
+google_analytics_gtag:  G-T01JGM3EKW
 
 # Permalinks
 permalink: /:title
