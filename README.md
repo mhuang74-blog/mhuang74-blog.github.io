@@ -13,8 +13,9 @@ This repo contains source material for generating static website for [tinakuoboo
 
 ## Copyright & License
 
-All content copyright Michael S. Huang, all rights reserved.
+All contents copyright Michael S. Huang, all rights reserved.
 
+Contents and user contributions licensed under CC-BY-4.0 with attribution.
 
 ## Powered by
 
