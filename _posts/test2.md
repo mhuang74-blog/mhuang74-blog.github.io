@@ -1,0 +1,15 @@
+---
+layout: post
+current: post
+cover: 'assets/images/丁小飛校園日記套書\(1_4冊\).jpg'
+navigation: True
+title: 丁小飛校園日記1-4：聰明眼鏡
+description: 
+date: 2017-03-07
+tags: fiction
+class: post-template
+subclass: 'post tag-young-adults-fiction'
+author: tina
+---
+
+test test test
