@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/mhuang74-blog/tinakuobooks.svg?branch=master)](https://travis-ci.com/github/mhuang74-blog/tinakuobooks)
 
-This repo contains source material for generating static website for [tinakuobooks.com](https://tinakuobooks.com).
+This repo contains source material for generating static website for [tinakuobooks.com](https://www.tinakuobooks.com).
 
 Targeted for Chinese audience.
 
@@ -12,6 +12,12 @@ Targeted for Chinese audience.
   * Recommend Ruby `2.5.3`, which matches what's used on travis-ci.com
 * `$ bundle exec jekyll serve`
 * Browse to `http://localhost:4000`
+
+## Copyright & License
+
+All contents copyright Michael S. Huang, all rights reserved.
+
+Contents and user contributions licensed under CC-BY-4.0 with attribution.
 
 ## Powered by
 

@@ -14,8 +14,8 @@ title: 郭瀞婷寫作
 description: Celebrate books publshed by my wife Tina Kuo.
 cover: assets/images/blog-cover-tina.jpg
 logo: 
-logo_dark: assets/images/favicon_turtle.png
-favicon: assets/images/favicon_turtle.png
+logo_dark: assets/images/favicon-turtle.png
+favicon: assets/images/favicon-turtle.png
 url: https://www.tinakuobooks.com
 production_url: https://www.tinakuobooks.com
 source_url: https://github.com/mhuang74-blog/tinakuobooks
@@ -35,6 +35,7 @@ disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
 google_analytics:  UA-137801972-1
+google_analytics_gtag:  G-T01JGM3EKW
 
 # Permalinks
 permalink: /:title
