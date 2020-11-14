@@ -1,8 +1,12 @@
 picture-book:
-  name: picture book
-  description: False
-  cover: False
+  name: Picture Book 繪本
+  description: True
+  cover: True
 young-adults-fiction:
-  name: young adults fiction
-  description: False
-  cover: False
+  name: Young Adults Fiction
+  description: True
+  cover: True
+stage-performance:
+  name: Stage Performance
+  description: True
+  cover: True
