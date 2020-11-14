@@ -2,7 +2,7 @@ picture-book:
   name: Picture Book 繪本
   description: True
   cover: True
-young-adults-fiction:
+young-adult-fiction:
   name: Young Adults Fiction
   description: True
   cover: True
