@@ -16,8 +16,8 @@ cover: assets/images/blog-cover-tina.jpg
 logo: 
 logo_dark: assets/images/favicon-turtle.png
 favicon: assets/images/favicon-turtle.png
-url: https://www.tinakuobooks.com
-production_url: https://www.tinakuobooks.com
+url: https://www.tinakuobooks.com/
+production_url: https://www.tinakuobooks.com/
 source_url: https://github.com/mhuang74-blog/tinakuobooks
 CNAME: www.tinakuobooks.com
 
@@ -77,7 +77,7 @@ repo: tinakuobooks
 branch: master
 relative_source: _site/
 destination: _site/
-production_url:  https://www.tinakuobooks.com
+production_url:  https://www.tinakuobooks.com/
 source_url:  https://github.com/mhuang74-blog/tinakuobooks
 
 exclude:
