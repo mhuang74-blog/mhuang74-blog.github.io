@@ -3,12 +3,14 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo:
 class: page-template
 subclass: 'post page'
 ---
 
-This is a portfolio and fan site created by me, Michael S. Huang, dedicated to all the wonderfully inspirational and wacky works created by my lovely wife Tina Kuo.
+在這裡收集了我心愛老婆的作品，也用我的方式把她的故事延伸出去。
+
+This is a portfolio and fan site created by me, Michael S. Huang, to celebrate and build upon all the wonderfully inspirational and wacky works created by my lovely wife Tina Kuo.
 
 
 
