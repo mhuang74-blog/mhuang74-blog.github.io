@@ -13,9 +13,9 @@ baseurl: /
 title: 郭瀞婷寫作
 description: Celebrate stories created by my wife Tina Kuo.
 cover: assets/images/blog-cover-tina.jpg
-logo: assets/images/turtle-brown.png
-logo_dark: assets/images/turtle-brown.png
-favicon: assets/images/turtle-brown.png
+logo: assets/images/turtle-brown-02.png
+logo_dark: assets/images/turtle-brown-02.png
+favicon: assets/images/turtle-brown-02.png
 url: https://www.tinakuobooks.com/
 production_url: https://www.tinakuobooks.com/
 source_url: https://github.com/mhuang74-blog/tinakuobooks
