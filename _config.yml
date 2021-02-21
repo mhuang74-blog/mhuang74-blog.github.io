@@ -16,8 +16,8 @@ cover: assets/images/blog-cover-tina.jpg
 logo: assets/images/turtle-brown-02.png
 logo_dark: assets/images/turtle-brown-02.png
 favicon: assets/images/turtle-brown-02.png
-url: https://www.tinakuobooks.com/
-production_url: https://www.tinakuobooks.com/
+url: https://www.tinakuobooks.com
+production_url: https://www.tinakuobooks.com
 source_url: https://github.com/mhuang74-blog/tinakuobooks
 CNAME: www.tinakuobooks.com
 
@@ -47,7 +47,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 
 feed:
   path: feed.xml
@@ -77,7 +77,7 @@ repo: tinakuobooks
 branch: master
 relative_source: _site/
 destination: _site/
-production_url:  https://www.tinakuobooks.com/
+production_url:  https://www.tinakuobooks.com
 source_url:  https://github.com/mhuang74-blog/tinakuobooks
 
 exclude:
