@@ -1738,10 +1738,10 @@ Usage (In Ghost editor):
 }
 
 .subscribe-overlay-logo {
-    position: fixed;
-    top: 23px;
-    left: 30px;
-    height: 30px;
+    position: relative;
+    top: -10px;
+    left: -5px;
+    height: 120px;
 }
 
 .subscribe-overlay-title {
