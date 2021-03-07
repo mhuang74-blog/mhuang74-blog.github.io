@@ -10,8 +10,9 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 baseurl: /
 
 # Website info
-title: 郭瀞婷寫作
-description: Celebrate stories created by my wife Tina Kuo.
+title: 郭瀞婷寫作 Tina Kuo Books
+keywords: 郭瀞婷,郭靜婷
+description: 讓故事延伸下去 Celebrate stories created by my wife Tina Kuo.
 cover: assets/images/blog-cover-tina.jpg
 logo: assets/images/turtle-brown-02.png
 logo_dark: assets/images/turtle-brown-02.png

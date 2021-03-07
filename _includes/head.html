@@ -7,6 +7,7 @@
         {% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}
      {% endif %} <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="{{ site.title }} | {{ site.description }}" />
+    <meta property="keywords" content="{{ site.keywords }}" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
